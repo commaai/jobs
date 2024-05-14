@@ -46,3 +46,4 @@ We're actively hiring anyone who can do these challenges well; ML, web, systems,
 * **Any specific requirements?** Nope. We're just looking for people who do well on our challenges and can independently contribute to shipping openpilot to users.
 * **Any other jobs?** We're hiring a technician for our compute cluster and a pick and place operator. Instead of a challenge submission, these jobs simply require relevant experience.
 * **Are you hiring for X?** If you can do any of the challenges well, then we're probably interested.
+* **Do you offer Visa sponsorship?** Yes, with rare country specific exceptions.
