@@ -34,7 +34,7 @@ If all goes well, we'll make you a full-time job offer.
 
 ### Challenges
 
-We're actively hiring anyone who can do these challenges well; ML, web, systems, product, designers, and electrical engineers.
+We're actively hiring anyone who can do these challenges well; web, systems, product, designers, and electrical engineers.
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * [paid bounties](https://github.com/orgs/commaai/projects/26): get a bounty merged to one of our open source projects
@@ -47,7 +47,7 @@ We're actively hiring anyone who can do these challenges well; ML, web, systems,
 * **Any other jobs?** We're hiring a technician for our compute cluster and a pick and place operator. Instead of a challenge submission, these jobs simply require relevant experience.
 * **Are you hiring for X?** If you can do any of the challenges well, then we're probably interested.
 * **Do you offer Visa sponsorship?** Yes, with rare country specific exceptions.
-  
+
 ## A tour of comma HQ
 
 [![comma_HQ_tour](https://github.com/commaai/jobs/assets/8762862/07f2aa5b-f732-4812-b70c-e96b749f9332)](https://youtu.be/PFjssb7r_uU)
