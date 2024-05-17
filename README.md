@@ -47,6 +47,7 @@ We're actively hiring anyone who can do these challenges well; web, systems, pro
 * **Any other jobs?** We're hiring a technician for our compute cluster and a pick and place operator. Instead of a challenge submission, these jobs simply require relevant experience.
 * **Are you hiring for X?** If you can do any of the challenges well, then we're probably interested.
 * **Do you offer Visa sponsorship?** Yes, with rare country specific exceptions.
+* **What's the best challenge to submit for X?** The best challenge is generally the one you find most interesting and will do well on.
 
 ## A tour of comma HQ
 
