@@ -39,6 +39,8 @@ We're actively hiring anyone who can do these challenges well; web, systems, pro
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * [paid bounties](https://github.com/orgs/commaai/projects/26): get a bounty merged to one of our open source projects
 
+Not looking for a job? Email in your solution anyway for exclusive merch.
+
 ## FAQ
 
 * **Internship?** All teams accept interns year-round. The process is the same, except the micro-internship is a full internship.
