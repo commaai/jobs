@@ -6,11 +6,14 @@ All of the data openpilot logs is available in the [raw logs](https://github.com
 
 The visualization can focus on any of the logged data, and it can be for a single route or multiple routes. Here’s an internal visualization as an example.
 
-Your deliverable is a GitHub repo with the project. The project should be hosted on GitHub pages.
+![mapviz](https://github.com/commaai/jobs/assets/8762862/15d224d0-75ca-4a80-bf47-2fbd7481ebed)
+
+Your deliverable is a GitHub repo with the project.
 
 NOTES
 * keep the implementation simple
 * use any data you want from the openpilot logs
+* make sure to host the project on GitHub Pages
 * API docs: https://api.comma.ai
 * API JS client library: https://github.com/commaai/comma-api
 * demo user account token: `TODO`
