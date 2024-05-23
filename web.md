@@ -1,4 +1,4 @@
-# comma.ai web challenge
+# comma web challenge
 
 [openpilot](https://github.com/commaai/openpilot) logs all sorts of interesting data as you drive, including GPS, IMU measurements, 20fps 360° video, all the CAN from the car, and [more](https://github.com/commaai/cereal/blob/master/log.capnp). Your goal is to build an interesting visualization for a user's openpilot routes.
 

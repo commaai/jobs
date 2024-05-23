@@ -35,6 +35,7 @@ If all goes well, we'll make you a full-time job offer.
 ### Challenges
 
 We're actively hiring anyone who can do these challenges well; web, systems, product, designers, and electrical engineers.
+* [web](web.md): build an interesting web visualization for openpilot routes
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * hardware: coming soon! try one of the software challenges or bounties for now
