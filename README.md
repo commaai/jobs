@@ -1,6 +1,6 @@
 # jobs @ comma
 
-![make_driving_chill](https://github.com/commaai/jobs/assets/8762862/adee56d4-1940-4149-9f70-c5345c45de9f)
+![werehiring](https://github.com/commaai/jobs/assets/8762862/0b4e6a12-da48-4f1b-8780-a2422c598444)
 
 Our mission is to **solve self driving cars while delivering shippable intermediaries**.
 
