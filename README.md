@@ -6,7 +6,7 @@ Our mission is to **solve self driving cars while delivering shippable intermedi
 
 We're building the robotics stack that will solve self driving cars, then eventually scales to all of robotics. We own our stack from shipping state of the art [machine learning models](https://www.youtube.com/watch?v=cAWScxZuc0g&pp=ygUQY29tbWEgY29uIGhhcmFsZA%3D%3D) trained on our own [infrastructure](https://www.youtube.com/watch?v=GJWsrPnfrgo), building the [operating system](https://github.com/commaai/openpilot), designing the [hardware](https://blog.comma.ai/comma3X/), and [manufacturing](https://www.youtube.com/watch?v=m-jdEgvLb-A) it.
 
-Today, our fleet is the second largest after Tesla, and it's growing every month as more of the 10+ million compatible cars on the road come online. We will win by continuing to ship a better product and better driving to our users. No hype, just shipping constant incremental progress until your comma reliably drives you to [Taco Bell](https://www.youtube.com/watch?v=SUIZYzxtMQs&t=4s&pp=ygUPY29tbWEgdGFjbyBiZWxs).
+Today, our fleet is the second largest after Tesla, and it's growing every month as more of the 10+ million compatible cars on the road come online. We will win by continuing to ship a better product and better driving to our users. No hype, just shipping constant incremental progress until your comma reliably drives you to [Taco Bell](https://blog.comma.ai/taco-bell/).
 
 ---
 
@@ -35,6 +35,7 @@ If all goes well, we'll make you a full-time job offer.
 ### Challenges
 
 We're actively hiring anyone who can do these challenges well; web, systems, product, designers, and electrical engineers.
+* [web](web.md): build an interesting web visualization for a user's openpilot routes
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * hardware: coming soon! try one of the software challenges or bounties for now
