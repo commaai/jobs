@@ -39,6 +39,7 @@ We're actively hiring anyone who can do these challenges well; web, systems, inf
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * [hardware](https://github.com/commaai/harness_tester_challenge): find all the bugs in our custom wire harness tester
+* [compression](https://github.com/commaai/commavq): losslessly compress 5,000 minutes of driving video
 * [paid bounties](https://comma.ai/bounties): get a bounty merged to one of our open source projects
 
 Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
