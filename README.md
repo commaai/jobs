@@ -41,6 +41,8 @@ We're actively hiring anyone who can do these challenges well; web, systems, inf
 * [hardware](https://github.com/commaai/harness_tester_challenge): find all the bugs in our custom wire harness tester
 * [paid bounties](https://github.com/orgs/commaai/projects/26): get a bounty merged to one of our open source projects
 
+Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
+
 ## FAQ
 
 * **Internship?** All teams accept interns year-round. The process is the same, except the micro-internship is a full internship.
