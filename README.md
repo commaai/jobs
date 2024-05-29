@@ -39,7 +39,7 @@ We're actively hiring anyone who can do these challenges well; web, systems, pro
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * [paid bounties](https://github.com/orgs/commaai/projects/26): get a bounty merged to one of our open source projects
 
-Not looking for a job? Email in your solution anyway for exclusive merch.
+Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
 
 ## FAQ
 
