@@ -38,7 +38,7 @@ We're actively hiring anyone who can do these challenges well; web, systems, inf
 * [web](web.md): build an interesting web visualization for a user's openpilot routes
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
-* hardware: coming soon! try one of the software challenges or bounties for now
+* [hardware](https://github.com/commaai/harness_tester_challenge): find all the bugs in our custom wire harness tester
 * [paid bounties](https://github.com/orgs/commaai/projects/26): get a bounty merged to one of our open source projects
 
 ## FAQ
