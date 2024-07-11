@@ -35,19 +35,19 @@ If all goes well, we'll make you a full-time job offer.
 ### Challenges
 
 We're actively hiring anyone who can do these challenges well; web, systems, infrastructure, product, designers, and electrical engineers.
-* [web](web.md): build an interesting web visualization for a user's openpilot routes, or try a [web bounty](https://github.com/orgs/commaai/projects/26/views/9)
+* web: get a [web bounty](https://github.com/orgs/commaai/projects/26/views/9) merged to comma connect
 * [design](design.md): design a UI to communicate openpilot's confidence to the user
 * [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
 * [hardware](https://github.com/commaai/harness_tester_challenge): find all the bugs in our custom wire harness tester
 * [compression](https://github.com/commaai/commavq): losslessly compress 5,000 minutes of driving video
-* [paid bounties](https://comma.ai/bounties): get a bounty merged to one of our open source projects
+* [paid bounties](https://comma.ai/bounties): get a bounty merged to one of our open source projects. bounties cover everything from web, car hacking, tooling, systems, and functional safety
 
 Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
 
 ## FAQ
 
 * **Internship?** All teams accept interns year-round. The process is the same, except the micro-internship is a full internship.
-* **Remote work?** No, all jobs are on site in San Diego.
+* **Remote work?** All jobs are on-site in San Diego.
 * **Any specific requirements?** Nope. We're just looking for people who do well on our challenges and can independently contribute to shipping openpilot to users.
 * **Any other jobs?** We're hiring a technician for our compute cluster and a pick and place operator. Instead of a challenge submission, these jobs simply require relevant experience.
 * **Are you hiring for X?** If you can do any of the challenges well, then we're probably interested.
