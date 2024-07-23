@@ -32,6 +32,12 @@ We'll fly you out to meet the team and work on a real problem for a few days. In
 
 If all goes well, we'll make you a full-time job offer.
 
+### The Teams
+
+comma is organized into three teams that you can read about [here](http://localhost:4000/refactoring-for-growth/).
+
+![teams](http://blog.comma.ai/img/refactoring_for_growth/teams.png)
+
 ### Challenges
 
 We're actively hiring anyone who can do these challenges well; web, systems, infrastructure, product, designers, and electrical engineers.
