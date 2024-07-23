@@ -34,7 +34,7 @@ If all goes well, we'll make you a full-time job offer.
 
 ### The Teams
 
-comma is organized into three teams that you can read about [here](http://localhost:4000/refactoring-for-growth/).
+comma is organized into three teams that you can read about [here](https://blog.comma.ai/refactoring-for-growth/).
 
 ![teams](http://blog.comma.ai/img/refactoring_for_growth/teams.png)
 
