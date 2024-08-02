@@ -38,15 +38,15 @@ comma is organized into three teams that you can read about [here](https://blog.
 
 ![teams](http://blog.comma.ai/img/refactoring_for_growth/teams.png)
 
-### Challenges
+## We're actively hiring
 
-We're actively hiring anyone who can do these challenges well; web, systems, infrastructure, product, designers, and electrical engineers.
-* web: get a [web bounty](https://github.com/orgs/commaai/projects/26/views/9) merged to comma connect
-* [design](design.md): design a UI to communicate openpilot's confidence to the user
-* [controls](https://github.com/commaai/controls_challenge): build a controller to steer a (simulated) car
-* [hardware](https://github.com/commaai/harness_tester_challenge): find all the bugs in our custom wire harness tester
-* [compression](https://github.com/commaai/commavq): losslessly compress 5,000 minutes of driving video
-* [paid bounties](https://comma.ai/bounties): get a bounty merged to one of our open source projects. bounties cover everything from web, car hacking, tooling, systems, and functional safety
+* **Designer**: own the comma aesthetic and user experience // [challenge](design.md)
+* **Electronics Engineer**: design + ship hardware like the [comma 3X](https://blog.comma.ai/comma3X/) and [comma body](https://commabody.com) // [challenge](https://github.com/commaai/harness_tester_challenge)
+* **Software Engineer (Web)**: own the comma web and mobile experience // challenge: get a [web bounty](https://github.com/orgs/commaai/projects/26/views/9) merged
+* **Software Engineer (Systems)**: work on systems and infrastructure for [openpilot](https://github.com/commaai/openpilot) // challenge: get a [bounty](https://comma.ai/bounties) merged
+* **Pick & Place Operator**: run the comma factory's circuit board line // Relevant experience required instead of a challenge
+* **Technician**: maintain the comma compute cluster and comma fleet // Requirements: good debugging skills and detail oriented.
+* Anyone else who does well on our [challenges](https://comma.ai/leaderboard)
 
 Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
 
@@ -55,8 +55,7 @@ Not looking for a job? Solve the challenges to get on the [leaderboard](https://
 * **Internship?** All teams accept interns year-round. The process is the same, except the micro-internship is a full internship.
 * **Remote work?** All jobs are on-site in San Diego.
 * **Any specific requirements?** Nope. We're just looking for people who do well on our challenges and can independently contribute to shipping openpilot to users.
-* **Any other jobs?** We're hiring a technician for our compute cluster and a pick and place operator. Instead of a challenge submission, these jobs simply require relevant experience.
-* **Are you hiring for X?** If you can do any of the challenges well, then we're probably interested.
+* **Are you hiring for X?** If you can do any of the [challenges](https://comma.ai/leaderboard) well, we're probably interested.
 * **Do you offer Visa sponsorship?** Yes, with rare country specific exceptions.
 * **What's the best challenge to submit for X?** The best challenge is generally the one you find most interesting and will do well on.
 
