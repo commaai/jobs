@@ -35,6 +35,9 @@ If all goes well, we'll make you a full-time job offer.
 ### The Teams
 
 comma is organized into three teams that you can read about [here](https://blog.comma.ai/refactoring-for-growth/).
+The autonomy team is [building autonomous agents](https://blog.comma.ai/autonomy/) with a current focus on building the world's best ADAS, and the product team is working on going from a [devkit](https://blog.comma.ai/comma3X/) to something you'd buy at [Best Buy](https://x.com/comma_ai/status/1821301106141753652).
+
+</br>
 
 ![teams](http://blog.comma.ai/img/refactoring_for_growth/teams.png)
 
@@ -45,7 +48,7 @@ comma is organized into three teams that you can read about [here](https://blog.
 * **Software Engineer (Web)**: own the comma web and mobile experience // challenge: get a [web bounty](https://github.com/orgs/commaai/projects/26/views/9) merged
 * **Software Engineer (Systems)**: work on systems and infrastructure for [openpilot](https://github.com/commaai/openpilot) // challenge: get a [bounty](https://comma.ai/bounties) merged
 * **Pick & Place Operator**: run the comma factory's circuit board line // Relevant experience required instead of a challenge
-* **Technician**: maintain the comma compute cluster and comma fleet // Requirements: good debugging skills and detail oriented.
+* **Technician**: maintain the comma compute cluster and comma fleet // Requirements: have built computers, good debugging skills, and detail orientedness
 * Anyone else who does well on our [challenges](https://comma.ai/leaderboard)
 
 Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
