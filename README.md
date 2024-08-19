@@ -47,6 +47,7 @@ The autonomy team is [building autonomous agents](https://blog.comma.ai/autonomy
 * **Electronics Engineer**: design + ship hardware like the [comma 3X](https://blog.comma.ai/comma3X/) and [comma body](https://commabody.com) // [challenge](https://github.com/commaai/harness_tester_challenge)
 * **Software Engineer (Web)**: own the comma web and mobile experience // challenge: get a [web bounty](https://github.com/orgs/commaai/projects/26/views/9) merged
 * **Software Engineer (Systems)**: work on systems and infrastructure for [openpilot](https://github.com/commaai/openpilot) // challenge: get a [bounty](https://comma.ai/bounties) merged
+* **Internship**: all teams accept interns year-round // challenge: get on the [leaderboard](https://comma.ai/leaderboard) or solve some [bounties](https://comma.ai/bounties)
 * **Pick & Place Operator**: run the comma factory's circuit board line // Relevant experience required instead of a challenge
 * **Technician**: maintain the comma compute cluster and comma fleet // Requirements: have built computers, good debugging skills, and detail orientedness
 * Anyone else who does well on our [challenges](https://comma.ai/leaderboard)
