@@ -51,7 +51,7 @@ The autonomy team is [building autonomous agents](https://blog.comma.ai/autonomy
 * **Pick & Place Operator**: run the comma factory's circuit board line // Relevant experience required instead of a challenge
 * **Technician**: maintain the comma compute cluster and comma fleet // Requirements: have built computers, good debugging skills, and detail orientedness
 * **Operations Engineer**: work on systems and infrastructure for the operations team which includes: accouting, spend optimization, inventory and supply chain // challenge: get a [bounty](https://comma.ai/bounties) merged
-* * Anyone else who does well on our [challenges](https://comma.ai/leaderboard)
+* Anyone else who does well on our [challenges](https://comma.ai/leaderboard)
 
 Not looking for a job? Solve the challenges to get on the [leaderboard](https://comma.ai/leaderboard) and the exclusive mystery prize.
 
